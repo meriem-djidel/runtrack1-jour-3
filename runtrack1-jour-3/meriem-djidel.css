@@ -1,0 +1,51 @@
+
+body{
+	background-color:#4682B4;
+	}
+h1{
+center
+border:2px #444;
+color:;
+text-shadow:1px 1px blue, -3px -1px #blue;
+background-color:#0000F
+}
+h2{
+	color:;
+text-shadow:1px 1px blue, -3px -1px #444;
+background-color:#0000F
+}
+p dashed {
+		border-style:dashed;
+	}
+a:link 
+	{
+  color: black;
+}
+a:visited {
+  color: cyan;
+h2 {
+	.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+p{
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #73AD21;
+}
+.para {
+	border-width:4px;
+	border-style:solid;
+	border-color:white;
+}
+.para1{
+	text-align:center-right;
+	color:blue;
+}
+li{
+	list-color:white;
